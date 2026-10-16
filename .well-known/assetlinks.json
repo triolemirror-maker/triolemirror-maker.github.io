@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.triolemirror_maker.twa",
+        "sha256_cert_fingerprints": ["DE:6F:35:2C:CC:5F:87:AC:D6:65:47:6C:EB:58:39:C8:69:1D:73:31:83:9C:EA:B9:78:FA:B2:97:D3:A7:C3:54"]
+      }
+    }]
 
